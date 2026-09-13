@@ -1,6 +1,6 @@
-package cardillan.launchlogic;
+package cardillan.sectors;
 
-import cardillan.launchlogic.logic.LaunchLogic;
+import cardillan.sectors.logic.SectorLogic;
 import mindustry.mod.Mod;
 
 public class Main extends Mod {
@@ -9,6 +9,6 @@ public class Main extends Mod {
     public void init(){
         super.init();
 
-        LaunchLogic.init();
+        SectorLogic.init();
     }
 }

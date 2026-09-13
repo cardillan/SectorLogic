@@ -1,4 +1,4 @@
-package cardillan.launchlogic.logic;
+package cardillan.sectors.logic;
 
 public class LogicStatementWriter {
     public static final String SEPARATOR = " ";

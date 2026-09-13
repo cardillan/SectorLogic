@@ -1,4 +1,4 @@
-package cardillan.launchlogic.logic;
+package cardillan.sectors.logic;
 
 import arc.func.Func;
 import arc.func.Prov;
@@ -44,7 +44,7 @@ public class LogicStatements {
 
         @Override
         public LCategory category() {
-            return LaunchLogic.launchCategory;
+            return SectorLogic.launchCategory;
         }
 
         @Override

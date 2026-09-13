@@ -1,11 +1,9 @@
-package cardillan.launchlogic.logic;
+package cardillan.sectors.logic;
 
-import mindustry.Vars;
 import mindustry.logic.LExecutor;
 import mindustry.logic.LVar;
 import mindustry.type.Sector;
 import mindustry.world.blocks.campaign.LandingPad;
-import mindustry.world.blocks.logic.MessageBlock;
 
 import static mindustry.Vars.state;
 
